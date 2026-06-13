@@ -4,6 +4,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
 ![JNI](https://img.shields.io/badge/JNI-FF6C37?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://shields.io)
 
 # hey, I'm HEBEI77
 
