@@ -47,6 +47,13 @@ A Live2D wallpaper engine for Android featuring a tsundere anime girl. Built ent
 
 ---
 
+# Find me Somewhere else
+
+- (B-BakaEngine's Discord)[https://discord.gg/dXEabqftTb]
+- (Twitter/X)[https://x.com/BBakadev]
+
+---
+
 ## When I'm not coding
 
 Gaming, breaking things to see how they work, and occasionally sleeping.
