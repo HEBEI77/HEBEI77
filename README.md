@@ -1,65 +1,29 @@
 <div align="center">
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
-![JNI](https://img.shields.io/badge/JNI-FF6C37?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
 # hey, I'm HEBEI77
 
-**I build things that probably shouldn't work, then make them work anyway.**
+I build things that probably shouldn't work, then make them work anyway.
 
 </div>
-
----
 
 ## About
 
-Self-taught developer who spends too much time making things that are either genuinely useful or completely unnecessary. Usually both.
+Self-taught. I spend too much time making stuff that is either useful or completely pointless. Usually both.
 
-Currently deep in Android native development — C++, OpenGL ES, JNI, the works. Started from Python and somehow ended up writing Live2D rendering engines in Termux on my phone. No regrets.
+These days I just do whatever. Sometimes kernels, sometimes AI stuff, sometimes Minecraft mods.
 
----
+## What I mess with
 
-## What I work with
+- Python for bots and quick scripts
+- Java for Fabric mods and Bukkit plugins
+- C for small tools and kernel builds
+- Rust when I want the compiler to yell at me
 
-**Comfortable with:**
-- Python / discord.py
-- C++ (Android NDK, OpenGL ES)
-- Java / Android SDK
-- JNI bridging
-- CMake / Gradle
+## Contact
 
-**Currently learning:**
-- Native Android graphics pipelines
-- Live2D Cubism SDK
-- EGL context management (the hard way)
-
----
-
-## Projects
-
-### [B-BakaEngine](https://github.com/HEBEI77/B-BakaEngine)
-A Live2D wallpaper engine for Android featuring a tsundere anime girl. Built entirely in Termux. She renders at 60fps, reacts to taps, and has opinions about what time you wake up.
-
-> Native C++ · OpenGL ES · Live2D Cubism 5 · Android NDK
-
----
-
-# Find me Somewhere else
-
-- [B-BakaEngine's Discord](https://discord.gg/dXEabqftTb)
-- [Twitter/X](https://x.com/BBakadev)
-
----
+- Discord: HEBEI77
+- Email: yoman121271@gmail.com
 
 ## When I'm not coding
 
-Gaming, breaking things to see how they work, and occasionally sleeping.
-
----
-
-<div align="center">
-<sub>150+ builds to ship one wallpaper. Worth it.</sub>
-</div>
+Gaming, breaking things to see how they work, sleeping when I feel like it.
